@@ -1,0 +1,13 @@
+# VS Code caches
+axiom_ws/.vscode/*.db
+.vscode/*.db
+
+# build artifacts
+**/build/
+**/install/
+**/log/
+
+# bags and temp zips
+*.bag
+*.bag.active
+*.tmp
