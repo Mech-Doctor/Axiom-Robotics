@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "ROS2: build",
+      "type": "shell",
+      "command": "cd axiom_ws && colcon build --symlink-install"
+    },
+    {
+      "label": "ROS2: bringup",
+      "type": "shell",
+      "command": "source /opt/ros/jazzy/setup.bash && cd axiom_ws && source install/setup.bash && ros2 launch axiom_bringup axiom_bringup.launch.py"
+    },
+    {
+      "label": "ROS1: build",
+      "type": "shell",
+      "command": "cd ros1_catkin_ws && catkin_make"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[0.920s] Invoking command in '/home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/build/axiom_base_bridge': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/build/axiom_base_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/install/axiom_base_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/build/axiom_base_bridge/build --no-deps symlink_data
+[1.299s] running develop
+[1.569s] running egg_info
+[1.595s] writing axiom_base_bridge.egg-info/PKG-INFO
+[1.596s] writing dependency_links to axiom_base_bridge.egg-info/dependency_links.txt
+[1.596s] writing entry points to axiom_base_bridge.egg-info/entry_points.txt
+[1.596s] writing requirements to axiom_base_bridge.egg-info/requires.txt
+[1.596s] writing top-level names to axiom_base_bridge.egg-info/top_level.txt
+[1.658s] reading manifest file 'axiom_base_bridge.egg-info/SOURCES.txt'
+[1.659s] writing manifest file 'axiom_base_bridge.egg-info/SOURCES.txt'
+[1.686s] running build_ext
+[1.686s] Creating /home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/install/axiom_base_bridge/lib/python3.12/site-packages/axiom-base-bridge.egg-link (link to .)
+[1.687s] Installing bridge script to /home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/install/axiom_base_bridge/lib/axiom_base_bridge
+[1.687s] 
+[1.687s] Installed /home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/build/axiom_base_bridge
+[1.687s] running symlink_data
+[1.727s] Invoked command in '/home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/build/axiom_base_bridge' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/build/axiom_base_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/install/axiom_base_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ing-vishwa/Desktop/Axiom_Robotics/axiom_ws/build/axiom_base_bridge/build --no-deps symlink_data

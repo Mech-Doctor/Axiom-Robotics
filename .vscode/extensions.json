@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "ms-iot.vscode-ros",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+    "charliermarsh.ruff",
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools",
+    "redhat.vscode-yaml",
+    "eamodio.gitlens",
+    "yzhang.markdown-all-in-one",
+    "ms-vscode-remote.remote-ssh",
+    "ms-azuretools.vscode-docker"
+  ]
+}
