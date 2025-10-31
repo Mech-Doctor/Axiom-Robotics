@@ -1,2 +1,0 @@
-[console_scripts]
-bridge = axiom_base_bridge.bridge_node:main

@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: axiom-base-bridge
-Version: 0.1.0
-Summary: Arduino <-> ROS 2 serial bridge
-Maintainer: Axiom Robotics
-Maintainer-email: team@axiom.local
-License: MIT
