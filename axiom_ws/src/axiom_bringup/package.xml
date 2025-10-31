@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>axiom_bringup</name>
+  <version>0.0.1</version>
+  <description>axiom_bringup</description>
+  <maintainer email="vishwas@manmed.in">Vishwa</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>launch</depend>
+  <depend>launch_ros</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>xacro</depend>
+  <export/>
+</package>

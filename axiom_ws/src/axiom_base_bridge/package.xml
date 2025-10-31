@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>axiom_base_bridge</name>
+  <version>0.0.1</version>
+  <description>axiom_base_bridge</description>
+  <maintainer email="vishwas@manmed.in">Vishwa</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <export/>
+</package>
