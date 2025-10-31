@@ -1,13 +1,20 @@
-# VS Code caches
-axiom_ws/.vscode/*.db
-.vscode/*.db
-
-# build artifacts
-**/build/
-**/install/
-**/log/
-
-# bags and temp zips
+# Keep source, ignore build artifacts
+build/
+install/
+log/
+.colcon*/
+rosbag*/
 *.bag
-*.bag.active
-*.tmp
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+*.code-workspace
+
+# Archives (keep tiny README links instead of binaries)
+*.zip
+*.rar
+*.7z
